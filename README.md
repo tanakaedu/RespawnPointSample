@@ -1,0 +1,2 @@
+# RespawnPointSample
+ RespawnPointSample
